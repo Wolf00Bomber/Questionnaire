@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Questionnaire</string>
+    <string name="questionnaire_list">List of Questions</string>
+    <string name="action_settings">Settings</string>
+</resources>
